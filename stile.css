@@ -1,0 +1,14 @@
+fieldset {
+  border-color: blue;
+  border-radius: 5px;
+}
+
+fieldset legend {
+  color: blue;
+}
+
+fieldset input {
+  border: none;
+  display: inline-block;
+  width: calc(100% - 50px);
+}
